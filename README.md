@@ -65,3 +65,7 @@ Moreover, the `build` command needs to be run only if you changed something insi
 ## License
 
 This project uses the [MIT] license(https://github.com/Sauberr/bookings-project/blob/master/LICENSE)
+
+## Contact
+
+To contact the author of the project, write to email 𝚍𝚖𝚒𝚝𝚛𝚒𝚢𝚋𝚒𝚛𝚒𝚕𝚔𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖.
